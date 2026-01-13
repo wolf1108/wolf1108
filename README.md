@@ -76,9 +76,9 @@
 * SQL / MariaDB / MySQL
 * Docker（基礎部署）
 
-**資料與 AI**
+**資料與 AI(還需努力)**
 
-* EDA / Feature Engineering
+* EDA / Feature Engineering 
 * Machine Learning / Deep Learning
 * 生理訊號（ECG）資料處理
 * AI Prompt 設計與應用整合
