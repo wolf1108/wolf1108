@@ -99,7 +99,6 @@
 ## 聯絡我 📬
 
 * Email：[yen.peggy31@gmail.com](mailto:yen.peggy31@gmail.com)
-* GitHub：`（可放你的 GitHub）`
 
 ---
 
